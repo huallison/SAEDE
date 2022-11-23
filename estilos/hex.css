@@ -12,7 +12,7 @@
 
     width: 208px;
     height: 184px; /* width * 0.866 */
-    background: rgb(235, 115, 2);
+    background: #198C29;
     box-sizing: border-box;
     -webkit-clip-path: polygon(0% 50%, 25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%);
     clip-path: polygon(0% 50%, 25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%);
